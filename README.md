@@ -7,8 +7,8 @@ The tool was originally presented in <a href="http://dl.acm.org/citation.cfm?id=
 This repository _is not_ the original repository for this tool.
 In this repository, for Imp you will find:
 * :x: Source code (not available)
-* :x: Binaries (not available)
 * :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 The tool is not available for external use.
 The tool was developed by Mr.Mithun Acharya and Mr.Brian Robinson. 
